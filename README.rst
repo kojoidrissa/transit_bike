@@ -7,6 +7,17 @@ Notes/Links
 ------------
 -  `Houston Metro Developer Portal <https://developer-portal.ridemetro.org/>`_
 
+    +  I'm not sure if I'm going to use this or not. I maybe able to get everything in one place from the Google Maps Directions API.
+
+If I'm going to use Google maps, I'll need an API key and the following info:
+-  `Google Maps API pricing and plans <https://developers.google.com/maps/pricing-and-plans/>`_
+-  `Google Maps Directions API <https://developers.google.com/maps/documentation/directions/>`_
+
+    +  The link to get an API key is on that page.
+
+    +  I'll want to combine the two `travel modes <https://developers.google.com/maps/documentation/directions/intro#TravelModes>`_: bicycling and transit.
+-  `Python Client for Google Maps Services <https://github.com/googlemaps/google-maps-services-python/>`_
+
 
 Ideal Bike Map: From Open Houston
 ---------------------------------
